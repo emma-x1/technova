@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Lato", sans-serif;
   color: #b6a6e6;
   text-align: center;
   padding-top: 60px;
@@ -245,7 +245,7 @@ table {
   margin-bottom: 10rem; 
 }
 
-.cursor-alien {
+.cursor-eye {
   position: fixed; 
   font-size: 30px; 
   transform: translate(-50%, -50%); 
@@ -368,7 +368,7 @@ footer .socials a:hover {
     padding: 20px;
   }
 
-  .cursor-alien {
+  .cursor-eye {
     display: none; 
   }
 
